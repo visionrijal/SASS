@@ -1,2 +1,2 @@
 # SASS
-simple SCSS project 
+simple SASS project 
